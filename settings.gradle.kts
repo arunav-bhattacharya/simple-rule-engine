@@ -17,4 +17,4 @@ plugins {
 }
 
 rootProject.name = "simple-rule-engine"
-include("app", "list", "utilities")
+include("app")
